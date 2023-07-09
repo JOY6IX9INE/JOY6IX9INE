@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **work.with.joy.6699@gmail.com**
 
--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=Profile%20views&color=0e75b6&style=flat" alt="joy6ix9ine" /> </p>
+-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=My%20Total%20Profile%20views&color=0e75b6&style=flat" alt="joy6ix9ine" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

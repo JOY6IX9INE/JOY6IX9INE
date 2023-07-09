@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Joy</h1>
+<h3 align="left">A Passionate Frontend Developer From India</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** & Preparing For Exams
 
 - 📫 How to reach me **work.with.joy.6699@gmail.com**
 
--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=My%20Total%20Profile%20views&color=0e75b6&style=flat" alt="joy6ix9ine" /> </p>
+-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=My%20Total%20Profile%20Views&color=0e75b6&style=flat" alt="joy6ix9ine" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

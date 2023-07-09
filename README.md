@@ -12,5 +12,5 @@ class Joy(Readme):
 ```
 
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joy6ix9ine&show_icons=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joy6ix9ine&show_icons=true&theme=radical" width="650"></a>
 </p>

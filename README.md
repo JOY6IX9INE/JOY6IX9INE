@@ -10,3 +10,7 @@ class Joy(Readme):
       self.discord = "@joy6ix9ine"
       self.location = "Pluto"
 ```
+
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joy6ix9ine&show_icons=true&theme=radical" width="350"></a>
+</p>

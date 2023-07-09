@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/joy_6ix9ine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joy_6ix9ine" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joy playz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joy playz" height="30" width="40" /></a>
+<a href="https://twitter.com/joy_6ix9ine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@joy_6ix9ine" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Joy-PlayZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Joy-PlayZ" height="30" width="40" /></a>
 <a href="https://discord.gg/aABuuB2WqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aABuuB2WqA" height="30" width="40" /></a>
 </p>
 

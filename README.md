@@ -25,7 +25,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=Profile%20views&color=0e75b6&style=flat" alt="joy6ix9ine" /> </p>
 </p>
 
-<p align='center'>
+<p align='left'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 

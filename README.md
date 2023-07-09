@@ -11,6 +11,4 @@ class Joy(Readme):
       self.location = "Pluto"
 ```
 <h3 align="center">🤓 Stats For Nerds :</h3>
-<img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=My%20Total%20Profile%20Views&color=0e75b6&style=flat" alt="joy6ix9ine">
-<img src="https://github-readme-stats.vercel.app/api?username=joy6ix9ine&show_icons=true&theme=radical" width="450">
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=My%20Total%20Profile%20Views&color=0e75b6&style=flat" alt="joy6ix9ine" /> </p>

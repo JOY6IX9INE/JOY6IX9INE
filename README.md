@@ -1,6 +1,6 @@
 <h3 align="center">🤓 Stats For Nerds :</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=Total%20Profile%20Views&color=0e75b6&style=flat" alt="joy6ix9ine"> </p>
-<p align="center"> <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=joy6ix9ine&show_icons=true&theme=radical"> </p>
+<p align="center"> <img width="700" height="150" src="https://github-readme-stats.vercel.app/api?username=joy6ix9ine&show_icons=true&theme=radical"> </p>
 
 
 ```py

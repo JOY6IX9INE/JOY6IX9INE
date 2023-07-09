@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy6ix9ine&label=Profile%20views&color=0e75b6&style=flat" alt="joy6ix9ine" /> </p>
 
-<p align="left"> <a href="https://twitter.com/JOY_6IX9INE" target="blank"><img src="https://img.shields.io/twitter/follow/joy_6ix9ine?logo=twitter&style=for-the-badge" alt="@JOY_6IX9INE" /></a> </p>
-
 - 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **work.with.joy.6699@gmail.com**

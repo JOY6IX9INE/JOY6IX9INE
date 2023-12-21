@@ -11,6 +11,6 @@ class Joy(Readme):
       self.name = "Joy"
       self.contact = "work.with.joy.6699@gmail.com"
       self.age = 17
-      self.discord = "@joy_6ix9ine"
+      self.discord = "@joy6ix9ine"
       self.location = "Pluto"
 ```

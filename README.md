@@ -5,6 +5,7 @@
 ```py
 from GitHub import Readme
 
+
 class Joy(Readme):
     "https://GitHub.com/JOY6IX9INE/JOY6IX9INE/README. md"
     def __init__(self):

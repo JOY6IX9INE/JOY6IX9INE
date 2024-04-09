@@ -5,6 +5,8 @@
 ```py
 from GitHub import Readme
 
+# DM ME ON DISCORD FOR CUSTOM BOT/SELFBOT OR ANY TOOL
+
 class Joy(Readme):
     "https://GitHub.com/JOY6IX9INE/JOY6IX9INE/README.md"
     def __init__(self):

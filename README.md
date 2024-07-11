@@ -15,4 +15,3 @@ class Joy(Readme):
       self.discord = "@joy6ix9ine"
       self.location = "Pluto"
 ```
-

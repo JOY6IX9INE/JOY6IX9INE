@@ -10,7 +10,7 @@ class Joy(Readme):
     def __init__(self):
       self.name = "Joy"
       self.age = 18+ 
-      self.discord = "@joy6ix9ine_"
+      self.discord = "@joy6ix9ine"
       self.location = "Pluto"
 ```
 

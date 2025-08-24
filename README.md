@@ -14,4 +14,4 @@ class Joy(Readme):
       self.location = "Pluto"
 ```
 
-<img src="https://raw.githubusercontent.com/notemrovsky/notemrovsky/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JOY6IX9INE/JOY6IX9INE/output/snake.svg" alt="Snake animation" />

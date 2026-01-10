@@ -1,6 +1,6 @@
 <h3 align="left">🤓 Stats For Nerds :</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoyNath1337&label=Total%20Profile%20Views&color=0e75b6&style=flat" alt="JoyNath1337"> </p>
-<p align="left"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoyNath1337&show_icons=true&theme=radical" alt="JoyNath1337"></p>
+<p align="left"> <img height="160" src="https://github-readme-stats-ten-ivory-35.vercel.app/api?username=JoyNath1337&show_icons=true&theme=radical" alt="JoyNath1337"></p>
 
 ```py
 from GitHub import Readme

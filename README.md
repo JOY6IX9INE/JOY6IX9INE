@@ -9,7 +9,7 @@ class Joy(Readme):
     "https://GitHub.com/JoyNath1337/JoyNath1337/README.md"
     def __init__(self):
       self.name = "Joy"
-      self.age = 99+ 
+      self.age = 19+ 
       self.github = "@JoyNath1337"
       self.location = "Pluto"
 ```
